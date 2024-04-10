@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pasindu Yapa</h1>
 <h3 align="center">A passionate, highly responsive & competitive full Stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasinduy&label=Profile%20views&color=0e75b6&style=flat" alt="pasinduy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pasindu03&label=Profile%20views&color=0e75b6&style=flat" alt="Pasindu03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasinduy" alt="pasinduy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pasindu03" alt="Pasindu03344" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Pasindu03/My-Portfolio.git)
 
