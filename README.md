@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pasindu03/My-Portfolio.git](https://github.com/Pasindu03/My-Portfolio.git)
+- 👨‍💻 All of my projects are available at [https://pasindu03.github.io/My-Portfolio/](https://pasindu03.github.io/My-Portfolio/)
 
 - 📝 I rarely write articles on [https://medium.com/@yapagunasekara08](https://medium.com/@yapagunasekara08)
 
