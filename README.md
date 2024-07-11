@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pasindu03" alt="Pasindu03344" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Pasindu03/My-Portfolio.git)
+- 🔭 I’m currently working on [Stock Management System](https://github.com/Pasindu03/Stock-Management-System)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Advanced API Development**
 
 - 👨‍💻 All of my projects are available at [https://pasindu03.github.io/My-Portfolio/](https://pasindu03.github.io/My-Portfolio/)
 
 - 📝 I rarely write articles on [https://medium.com/@yapagunasekara08](https://medium.com/@yapagunasekara08)
 
-- 💬 Ask me about **Java, MySQL & HTML**
+- 💬 Ask me about **Java, MySQL, HTML, Css & Js**
 
 - 📫 How to reach me **pasindu.yapa03@gmail.com**
 
-- ⚡ Fun fact **I'm very open minded and eager to learn new languages.**
+- ⚡ Fun fact **I'm very open minded and eager to learn new languages and work as a starter.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
