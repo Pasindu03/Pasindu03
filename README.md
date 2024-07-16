@@ -13,7 +13,7 @@
 
 - 📝 I rarely write articles on [https://medium.com/@yapagunasekara08](https://medium.com/@yapagunasekara08)
 
-- 💬 Ask me about **Java, MySQL, HTML, Css & Js**
+- 💬 Ask me about **Java, MySQL, HTML, CSS & JS**
 
 - 📫 How to reach me **pasindu.yapa03@gmail.com**
 
