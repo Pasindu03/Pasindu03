@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pasindu03" alt="Pasindu03344" /></a> </p>
 
-- 🔭 I’m currently working on [Stock Management System](https://github.com/Pasindu03/Stock-Management-System)
+- 🔭 I’m currently working on [Student Management System With Java EE](https://github.com/Pasindu03/AAD-SMS)
 
 - 🌱 I’m currently learning **Advanced API Development**
 
