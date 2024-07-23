@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pasindu03" alt="Pasindu03344" /></a> </p>
 
-- 🔭 I’m currently working on [Student Management System With Java EE](https://github.com/Pasindu03/AAD-SMS)
+- 🔭 I’m currently working on [Mock Prototype UI using Next JS](https://github.com/Pasindu03/AAD-SMS)
 
-- 🌱 I’m currently learning **Advanced API Development**
+- 🌱 I’m currently learning **Advanced API Development, React & Next JS**
 
 - 👨‍💻 All of my projects are available at [https://pasindu03.github.io/My-Portfolio/](https://pasindu03.github.io/My-Portfolio/)
 
