@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pasindu03&label=Profile%20views&color=0e75b6&style=flat" alt="Pasindu03" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pasindu03" alt="Pasindu03" /></a> </p>
+
 - 🔭 I’m currently working on [Tic-Tac-Toe Game with Angular](https://github.com/Pasindu03/Tic-Tac-Toe)
 - 🌱 I’m currently learning **Advanced API Development, React, Angular & Next JS**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://pasindu03.github.io/My-Portfolio/)
