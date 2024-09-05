@@ -6,12 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pasindu03" alt="Pasindu03" /></a> </p>
 
 - 🔭 I’m currently working on [Tic-Tac-Toe Game with Angular](https://github.com/Pasindu03/Tic-Tac-Toe)
-- 🌱 I’m currently learning **Advanced API Development, React, Angular & Next JS**
+- 🌱 I’m currently learning **Advanced API Development with Spring & Spring-Boot, React with NextJS & Angular**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://pasindu03.github.io/My-Portfolio/)
 - 📝 I rarely write articles on [Medium](https://medium.com/@yapagunasekara08)
 - 💬 Ask me about **Java, MySQL, HTML, CSS & JS**
 - 📫 How to reach me **pasindu.yapa03@gmail.com**
-- ⚡ Fun fact **I'm very open-minded and eager to learn new languages and work as a starter.**
+- ⚡ Fun fact **I'm very open-minded and eager to learn new languages and work as a collaborator.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
