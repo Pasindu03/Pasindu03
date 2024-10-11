@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pasindu03" alt="Pasindu03" /></a> </p>
 
-- 🔭 I’m currently working on [Tic-Tac-Toe Game with Angular](https://github.com/Pasindu03/Tic-Tac-Toe)
+- 🔭 I’m currently working on [Point of Sale Backend - Phase 02](https://github.com/Pasindu03/Point-Of-Sale-Backend-Phase-02.git)
 - 🌱 I’m currently learning **Advanced API Development with Spring & Spring-Boot, React with NextJS & Angular**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://pasindu03.github.io/My-Portfolio/)
 - 📝 I rarely write articles on [Medium](https://medium.com/@yapagunasekara08)
