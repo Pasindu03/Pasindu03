@@ -15,17 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/pasindu-yapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pasindu-yapa" height="30" width="40" /></a>
-<a href="https://twitter.com/pasi_yapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pasi_yapa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mixage03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mixage03" height="30" width="40" /></a>
 <a href="https://fb.com/mixage03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mixage03" height="30" width="40" /></a>
 <a href="https://instagram.com/mixage03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mixage03" height="30" width="40" /></a>
 <a href="https://medium.com/@mixage03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mixage03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pasinduyapa1947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pasinduyapa1947" height="30" width="40" /></a>
-<a href="https://discord.gg/mixage03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mixage03" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pasindu03&show_icons=true&locale=en&layout=compact" alt="Pasindu03" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -51,3 +45,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pasindu03&show_icons=true&locale=en&layout=compact" alt="Pasindu03" /></p>
