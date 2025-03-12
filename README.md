@@ -1,6 +1,6 @@
 <!-- Banner (Optional: Replace the URL with your own banner image) -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x200?text=Welcome+to+My+Profile" alt="Banner Image" width="100%">
+  <img src="[https://via.placeholder.com/1000x200?text=Welcome+to+My+Profile](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVzODE2YjRtZnVkOWk0bmIyaXRmNnkxZW53M2J6bTFuY3Y5Y29jdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy.gif)" alt="Banner Image" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Pasindu Yapa 👋</h1>
